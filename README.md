@@ -1,2 +1,2 @@
 # DA-Projects
-A collection of  data analytics dashboards and Power BI projects.
+A collection of Data Analytics projects.
